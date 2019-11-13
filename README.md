@@ -1,11 +1,7 @@
 desafio-Java
 Criar um fork deste repositorio chamado "Fulllab - Desafio Java-Nome";
 
-Realize o desafio, até onde conseguir;
-
-Qualquer dúvida, só perguntar por email;
-
-Não faça tudo em apenas um COMMIT!
+Não faça tudo em apenas um COMMIT, publique no git o código gerado e o script de banco de dados.
 
 Desafio:
 
