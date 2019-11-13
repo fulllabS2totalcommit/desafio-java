@@ -1,4 +1,4 @@
-DESAFIO- AJAVA
+DESAFIO-JAVA
 
 Criar um fork deste repositorio chamado "Fulllab - Desafio Java-Nome";
 
